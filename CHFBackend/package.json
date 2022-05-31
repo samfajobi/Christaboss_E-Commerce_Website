@@ -1,0 +1,16 @@
+{
+  "name": "chfbackend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "mongoose": "^6.0.5",
+    "nodemon": "^2.0.15"
+  }
+}
