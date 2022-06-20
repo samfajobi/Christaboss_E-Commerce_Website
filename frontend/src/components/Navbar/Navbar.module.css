@@ -1,0 +1,26 @@
+
+
+.navbar {
+    display: flex;
+    justify-content: space-between
+}
+
+
+.navlinks {
+    display: flex;
+    list-style: none;
+}
+
+.navlinks li {
+    padding-left: 30px;
+}
+
+.navlinks li a {
+    text-decoration: none;
+
+}
+
+.logo {
+    background-color: red;
+    color: blue;
+}
